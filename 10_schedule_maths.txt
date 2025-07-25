@@ -1,20 +1,26 @@
 {
   "Week 1": {
-    "Monday": ["Real Numbers"],
-    "Tuesday": ["Polynomials"],
-    "Wednesday": ["Pair of Linear Equations in Two Variables", "Quadratic Equations"],
-    "Thursday": ["Arithmetic Progressions"],
-    "Friday": ["Triangles"],
-    "Saturday": ["Coordinate Geometry"],
-    "Sunday": ["Introduction to Trigonometry"]
+    "Monday": "Real Numbers",
+    "Tuesday": "Polynomials",
+    "Wednesday": [
+      "Pair of Linear Equations in Two Variables",
+      "Quadratic Equations"
+    ],
+    "Thursday": "Arithmetic Progressions",
+    "Friday": "Triangles",
+    "Saturday": "Coordinate Geometry",
+    "Sunday": "Introduction to Trigonometry"
   },
   "Week 2": {
-    "Monday": ["Some Applications of Trigonometry"],
-    "Tuesday": ["Circles"],
-    "Wednesday": ["Areas Related to Circles", "Surface Areas and Volumes"],
-    "Thursday": ["Statistics"],
-    "Friday": ["Probability"],
-    "Saturday": ["Revision"],
-    "Sunday": ["Revision"]
+    "Monday": "Some Applications of Trigonometry",
+    "Tuesday": "Circles",
+    "Wednesday": [
+      "Areas Related to Circles",
+      "Surface Areas and Volumes"
+    ],
+    "Thursday": "Statistics",
+    "Friday": "Probability",
+    "Saturday": "Revision",
+    "Sunday": "Revision"
   }
 }
