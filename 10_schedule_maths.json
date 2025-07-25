@@ -1,64 +1,61 @@
 {
   "Monday": {
     "Week": "First",
-    "Chapter": "Real Numbers"
+    "Chapter 1": "Real Numbers"
   },
   "Tuesday": {
     "Week": "First",
-    "Chapter": "Polynomials"
+    "Chapter 2": "Polynomials"
   },
   "Wednesday": {
     "Week": "First",
-    "Chapters": [
-      "Pair of Linear Equations in Two Variables",
-      "Quadratic Equations"
+    "Chapters 3": [
+      "Pair of Linear Equations in Two Variables"
+      
     ]
   },
   "Thursday": {
     "Week": "First",
-    "Chapter": "Arithmetic Progressions"
+    "Chapter 4": "Quadratic Equations"
   },
   "Friday": {
     "Week": "First",
-    "Chapter": "Triangles"
+    "Chapter 5": "Arithmetic Progressions"
   },
   "Saturday": {
     "Week": "First",
-    "Chapter": "Coordinate Geometry"
+    "Chapter 6": "Triangles"
   },
   "Sunday": {
     "Week": "First",
-    "Chapter": "Introduction to Trigonometry"
+    "Chapter 7": "Coordinate Geometry"
   },
   "Monday_2": {
     "Week": "Second",
-    "Chapter": "Some Applications of Trigonometry"
+    "Chapter 8": "Introduction to Trigonometry"
   },
   "Tuesday_2": {
     "Week": "Second",
-    "Chapter": "Circles"
+    "Chapter 9": "Some Applications of Trigonometry"
   },
   "Wednesday_2": {
     "Week": "Second",
-    "Chapters": [
-      "Areas Related to Circles",
-      "Surface Areas and Volumes"
-    ]
+    "Chapters 10": "Circles"     
   },
   "Thursday_2": {
     "Week": "Second",
-    "Chapter": "Statistics"
+    "Chapter 11": "Areas Related to Circles"
   },
   "Friday_2": {
     "Week": "Second",
-    "Chapter": "Probability"
+    "Chapter 12": "Surface Areas and Volumes"
   },
   "Saturday_2": {
     "Week": "Second",
-    "Topic": "Revision"
+    "Chapter 13": "Statics" "Probability"
   },
   "Sunday_2": {
     "Week": "Second",
-    "Topic": "Revision"
+    "Chapter 14": "Probability"
   }
 }
