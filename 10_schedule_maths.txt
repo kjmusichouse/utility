@@ -1,26 +1,80 @@
 {
-  "Week 1": {
-    "Monday": "Real Numbers",
-    "Tuesday": "Polynomials",
-    "Wednesday": [
-      "Pair of Linear Equations in Two Variables",
-      "Quadratic Equations"
-    ],
-    "Thursday": "Arithmetic Progressions",
-    "Friday": "Triangles",
-    "Saturday": "Coordinate Geometry",
-    "Sunday": "Introduction to Trigonometry"
-  },
-  "Week 2": {
-    "Monday": "Some Applications of Trigonometry",
-    "Tuesday": "Circles",
-    "Wednesday": [
-      "Areas Related to Circles",
-      "Surface Areas and Volumes"
-    ],
-    "Thursday": "Statistics",
-    "Friday": "Probability",
-    "Saturday": "Revision",
-    "Sunday": "Revision"
-  }
+  "Monday": [
+    {
+      "week": "Week 1",
+      "topic": "Real Numbers"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Some Applications of Trigonometry"
+    }
+  ],
+  "Tuesday": [
+    {
+      "week": "Week 1",
+      "topic": "Polynomials"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Circles"
+    }
+  ],
+  "Wednesday": [
+    {
+      "week": "Week 1",
+      "topic": "Pair of Linear Equations in Two Variables"
+    },
+    {
+      "week": "Week 1",
+      "topic": "Quadratic Equations"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Areas Related to Circles"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Surface Areas and Volumes"
+    }
+  ],
+  "Thursday": [
+    {
+      "week": "Week 1",
+      "topic": "Arithmetic Progressions"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Statistics"
+    }
+  ],
+  "Friday": [
+    {
+      "week": "Week 1",
+      "topic": "Triangles"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Probability"
+    }
+  ],
+  "Saturday": [
+    {
+      "week": "Week 1",
+      "topic": "Coordinate Geometry"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Revision"
+    }
+  ],
+  "Sunday": [
+    {
+      "week": "Week 1",
+      "topic": "Introduction to Trigonometry"
+    },
+    {
+      "week": "Week 2",
+      "topic": "Revision"
+    }
+  ]
 }
