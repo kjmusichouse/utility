@@ -1,20 +1,80 @@
 [
   {
-    "day": 1,
-    "chapter": "Chemical Reactions",
-    "topics": [
-      "Introduction",
-      "Chemical Equations",
-      "Writing Chemical Equations"
-    ]
+    "chapter": "Chemical Reactions and Equations - Part 1"
   },
   {
-    "day": 2,
-    "chapter": "Chemical Reactions",
-    "topics": [
-      "Balanced Chemical Equations",
-      "Types of Chemical Reactions"
-    ]
+    "chapter": "Chemical Reactions and Equations - Part 2"
+  },
+  {
+    "chapter": "Acids, Bases and Salts - Part 1"
+  },
+  {
+    "chapter": "Acids, Bases and Salts - Part 2"
+  },
+  {
+    "chapter": "Metals and Non-metals - Part 1"
+  },
+  {
+    "chapter": "Metals and Non-metals - Part 2"
+  },
+  {
+    "chapter": "Carbon and its Compounds - Part 1"
+  },
+  {
+    "chapter": "Carbon and its Compounds - Part 2"
+  },
+  {
+    "chapter": "Life Processes - Part 1"
+  },
+  {
+    "chapter": "Life Processes - Part 2"
+  },
+  {
+    "chapter": "Control and Coordination - Part 1"
+  },
+  {
+    "chapter": "Control and Coordination - Part 2"
+  },
+  {
+    "chapter": "How do Organisms Reproduce? - Part 1"
+  },
+  {
+    "chapter": "How do Organisms Reproduce? - Part 2"
+  },
+  {
+    "chapter": "Heredity - Part 1"
+  },
+  {
+    "chapter": "Heredity - Part 2"
+  },
+  {
+    "chapter": "Light – Reflection and Refraction - Part 1"
+  },
+  {
+    "chapter": "Light – Reflection and Refraction - Part 2"
+  },
+  {
+    "chapter": "The Human Eye and the Colourful World - Part 1"
+  },
+  {
+    "chapter": "The Human Eye and the Colourful World - Part 2"
+  },
+  {
+    "chapter": "Electricity - Part 1"
+  },
+  {
+    "chapter": "Electricity - Part 2"
+  },
+  {
+    "chapter": "Magnetic Effects of Electric Current - Part 1"
+  },
+  {
+    "chapter": "Magnetic Effects of Electric Current - Part 2"
+  },
+  {
+    "chapter": "Our Environment - Part 1"
+  },
+  {
+    "chapter": "Our Environment - Part 2"
   }
 ]
-
