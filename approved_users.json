@@ -1,6 +1,6 @@
 {
-  "student1@example.com": "NEWpass123",
-  "student2@example.com": "passABC",
-  "kuljit1@gmail.com": "pass123"
-  "kuljit2@gmail.com": "pass234"
+  "kjmusic@gmail.com": {
+    "name": "KJ Music",
+    "joined": "2025-07-26"
+  }
 }
